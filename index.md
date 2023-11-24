@@ -9,3 +9,8 @@
 words = ["I", "Love", "GitHub"]
 print(" ".join(words))
 ```
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [x] Make a task list
+- [ ] Merge my pull request
